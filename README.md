@@ -1,3 +1,4 @@
 # Online-dictionary
 
-A place to add words and their meanings.
+Look for the meaning of words. You can also add to it words that are not present.
+
